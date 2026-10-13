@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+pillow
+scikit-learn
+matplotlib
+seaborn
+scipy
+nibabel
+nilearn
+torch
+torch-geometric
+reportlab
